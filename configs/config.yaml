@@ -1,0 +1,7 @@
+block_size: 8
+wavelet: haar
+embedding_strength: 25
+subband: DUAL
+ecc_method: hamming
+compression: False
+jpeg_quality: 75

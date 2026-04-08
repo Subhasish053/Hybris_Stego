@@ -1,0 +1,8 @@
+streamlit>=1.56
+numpy>=2.0
+opencv-python>=4.10
+PyWavelets>=1.8
+scipy>=1.14
+scikit-image>=0.25
+PyYAML>=6.0
+matplotlib>=3.9
